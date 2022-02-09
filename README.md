@@ -1,24 +1,67 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A passionate full Stack Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-081&label=Profile%20views&color=0e75b6&style=flat" alt="neha-081" /> </p>
 
-- 🌱 I’m currently learning **node.js, backend**,ReactJS
-
-- 💬 Ask me about **HTML,CSS**
-
-- 📫 How to reach me **nehaprajapati1150@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neha-prajapati-1150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-prajapati-1150" height="30" width="40" /></a>
+<p align="justify">
+    This is Neha Prajapati. To be a skilled and significant Software Engineer, for now I am tempted to work with Web Technology. 
+    I have been learning full stack web development since I got acquainted with programming.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-081&show_icons=true&locale=en&layout=compact" alt="neha-081" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha-081&show_icons=true&locale=en" alt="neha-081" /></p>
+- 💎 Currently I'm working on Front End Development.
+- ⚡ My Portfolio - https://neha-prajapati.netlify.app/
+- 🌱 Currently learning JavaScript, ReactJS & ReduxJS.
+- 🎯 Preparing myself to work on Full Stack Development.
+- 💬 Open to learn about Competitive Programming.
+- 📚 Currently solving some tricky algorithmns.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-081&" alt="neha-081" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-081&label=Profile%20views&color=0e75b6&style=flat" alt="neha-081" /> </p>
+
+
+<hr>
+
+  <h1>Connect With Me :inbox_tray: </h1>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-prajapati-1150/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nehasinghh1150)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NehaPra03810819) 
+  <a href="mailto:nehaprajapti1150@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+
+</div>
+
+
+
+<hr>
+
+<div align="center">
+  <h1>Tech Skills :computer: </h1>
+
+ <img src="https://icongr.am/devicon/html5-original.svg?size=46&color=563d7c" title="HTML"> <img src="https://icongr.am/devicon/css3-original.svg?size=46&color=563d7c" title="CSS"> <img src="https://icongr.am/devicon/express-original.svg?size=46&color=949494" title="Express.js"> <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=46&color=563d7c" title="BootStrap"> <img src="https://icongr.am/devicon/javascript-original.svg?size=46&color=563d7c" title="JavaScript"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="My SQL"> <img src="https://icongr.am/devicon/yarn-original.svg?size=46&color=563d7c" title="YARN"> <img src="https://icongr.am/devicon/git-original.svg?size=46&color=563d7c" title="Git"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" title="npm" width="40" height="40"> <img src="https://icongr.am/devicon/react-original.svg?size=46&color=563d7c" title="React"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="46" width="46" title="Redux" /> <img src="https://icongr.am/octicons/mark-github.svg?size=46&color=949494" title="GitHub"> <img src="https://icongr.am/devicon/heroku-original.svg?size=46&color=563d7c" title="Heroku"> <img src="https://icongr.am/devicon/nodejs-original.svg?size=46&color=563d7c" title="Node.js"> <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" title="Figma" height="46" width="46"> <img src="https://icongr.am/devicon/mongodb-original.svg?size=46&color=563d7c" title="MongoDB"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="46" width="46" title="Firebase" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="postman" width="40" height="40"/>
+  
+
+
+</div>
+
+<hr>
+
+
+## **CODING STATS**
+
+<p align = "center">
+    <img src='https://github-readme-stats.vercel.app/api?username=Neha-081&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-081&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true">
+</p>
+
+
+
+
+## **STREAK STATS**
+
+<p align = "center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha-081&theme=gotham&hide_border=true">
+</p>
+
+
+
